@@ -9,8 +9,7 @@
 
 ## Homework 1: Spatial Pyramid Matching for Scene Classification
 
-**Procedure:**
-
+### **Procedure:**<br>
 ![bow_diagram](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/BOW-diagram.png)
 
 
@@ -22,8 +21,7 @@
 5. Hyperparameters Tuning
 6. CNN Implementation
 
-**Results:** 
-
+### **Results:** <br>
 ![visual-words](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/visual-words.png)
 
 **Description.** <br>*Visual words for three sample images from the SUN database.*
@@ -32,8 +30,8 @@
 
 ## Homework 2: Lucas-Kanade Object Tracking
 
-**Procedure:**
-![lk-tracking-graphic]https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/Lk-tracking-schematic.png)
+### **Procedure:**<br>
+![lk-tracking-graphic](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/Lk-tracking-schematic.png)
 
 **Topics Covered:**
 1. Simple Lucas & Kanade Tracker with Naive Template Update
@@ -43,6 +41,8 @@
 5. Lucas & Kanade Forward Additive Approach
 6. Lucas & Kanade Inverse Compositional Approach
 
+### **Results:**
+
 ![lk-results](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/Drift_Correction.png)
 
 **Description:** <br>*Lucas-Kanade tracking using Naive Template Update (purple) versus Template Correction (Red).*
@@ -51,7 +51,7 @@
 
 ## Homework 3: Augmented Reality with Planar Homographies
 
-**Procedure:**
+### **Procedure:**<br>
 ![homographies-graphic](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/homography-diagram.png)
 
 **Topics Covered:**
@@ -66,7 +66,7 @@
 9. Real-Time Augmented Reality with High FPS
 10. Panorama Generation based on Homography
 
-**Results:**
+### **Results:**<br>
 ![kf-panda-graphic](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/ar_kungfu_panda.gif)
 
 **Description:** <br>*Augmented reality clip, superimposing a video sequence onto a book cover - using Planar Homographies.*
@@ -76,7 +76,7 @@
 ## Homework 4: 3D Reconstruction
 
 
-**Procedure:**
+### **Procedure:**<br>
 ![3d-graphic](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/3d_recon_diag.png)
 
 
@@ -91,7 +91,7 @@
 8. Jointly optmized reprojection error w.r.t 3D estimated points and camera matrices
 9. Non-linear optimization using SciPy least square optimizer
 
-**Results:**
+### **Results:**<br>
 ![temple](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/temples.png)
 ![temple-reconstr](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/3d-reconst.png)
 
@@ -102,7 +102,7 @@
 
 ## Homework 5: Neural Networks for Recognition
 
-**Procedure:**
+### **Procedure:**<br>
 ![neural-net](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/deep_nn.png)
 
 **Topics Covered:**
@@ -112,7 +112,7 @@
 4. Fine Tuning of SqueezeNet in PyTorch
 5. Comparison between Fine Tuning and Training from Scratch
 
-**Results:**
+### **Results:**<br>
 ![raw-note](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/03_haiku.jpg)
 ![nn-reading](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/dl-results.png)
 
