@@ -24,16 +24,16 @@
 
 **Results:** 
 
-![visual-words]()
+![visual-words](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/visual-words.png)
 
-**Description.** *Visual words for three sample images from the SUN database.*
+**Description.** <br>*Visual words for three sample images from the SUN database.*
 
 <hr style="border:1px solid gray">
 
 ## Homework 2: Lucas-Kanade Object Tracking
 
 **Procedure:**
-![lk-tracking-graphic]()
+![lk-tracking-graphic]https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/Lk-tracking-schematic.png)
 
 **Topics Covered:**
 1. Simple Lucas & Kanade Tracker with Naive Template Update
@@ -43,16 +43,16 @@
 5. Lucas & Kanade Forward Additive Approach
 6. Lucas & Kanade Inverse Compositional Approach
 
-![lk-results]()
+![lk-results](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/Drift_Correction.png)
 
-**Description:** *Lucas-Kanade tracking using Naive Template Update (purple) versus Template Correction (Red).*
+**Description:** <br>*Lucas-Kanade tracking using Naive Template Update (purple) versus Template Correction (Red).*
 
 <hr style="border:1px solid gray">
 
 ## Homework 3: Augmented Reality with Planar Homographies
 
 **Procedure:**
-![homographies-graphic]()
+![homographies-graphic](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/homography-diagram.png)
 
 **Topics Covered:**
 1. Direct Linear Transform
@@ -67,9 +67,9 @@
 10. Panorama Generation based on Homography
 
 **Results:**
-![kf-panda-graphic]()
+![kf-panda-graphic](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/ar_kungfu_panda.gif)
 
-**Description:** *Augmented reality clip, superimposing a video sequence onto a book cover - using Planar Homographies.*
+**Description:** <br>*Augmented reality clip, superimposing a video sequence onto a book cover - using Planar Homographies.*
 
 <hr style="border:1px solid gray">
 
@@ -77,7 +77,7 @@
 
 
 **Procedure:**
-![3d-graphic]()
+![3d-graphic](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/3d_recon_diag.png)
 
 
 **Topics Covered:**
@@ -92,10 +92,10 @@
 9. Non-linear optimization using SciPy least square optimizer
 
 **Results:**
-![temple]()
-![temple-reconstr]()
+![temple](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/temples.png)
+![temple-reconstr](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/3d-reconst.png)
 
-**Description:** *Temple (top) reconstructed in 3D (bottom).*
+**Description:** <br>*Temple (top) reconstructed in 3D (bottom).*
 
 
 <hr style="border:1px solid gray">
@@ -103,7 +103,7 @@
 ## Homework 5: Neural Networks for Recognition
 
 **Procedure:**
-![neural-net]()
+![neural-net](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/deep_nn.png)
 
 **Topics Covered:**
 1. Manual Implementation of a Fully Connected Network
@@ -113,7 +113,7 @@
 5. Comparison between Fine Tuning and Training from Scratch
 
 **Results:**
-![raw-note]()
-![nn-reading]()
+![raw-note](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/03_haiku.jpg)
+![nn-reading](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/dl-results.png)
 
-**Description:** *Neural network text recognition results, based on raw images (example on top).*
+**Description:** <br>*Neural network text recognition results, based on raw images (example on top).*
