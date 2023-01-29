@@ -11,7 +11,7 @@
 
 **Procedure:**
 
-![bow_diagram]()
+![bow_diagram](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/BOW-diagram.png)
 
 
 **Topics Covered:**
