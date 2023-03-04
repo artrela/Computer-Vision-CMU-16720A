@@ -19,7 +19,6 @@
 3. Visual Word Dictionary
 4. Scene Classification
 5. Hyperparameters Tuning
-6. CNN Implementation
 
 ### **Results:** <br>
 ![visual-words](https://github.com/artrela/Computer-Vision-CMU-16720A/blob/master/Results/visual-words.png)
